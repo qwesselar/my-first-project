@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>First WEB</title>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Abhaya+Libre:wght@400;500;600;700;800&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="css/style.css">
+	<link href="https://fonts.googleapis.com/css2?family=Trade+Winds&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Abhaya+Libre:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+</head>
+<body>
+	<header id="header" class="header">
+		<div class="container1">
+			<div class="nav">
+				<img src="image/projeco-logo.svg" alt="logo" class="logotip">
+				<h1>PARTNER WITH KONSTUCT</h1>
+				<h4>An award-winning construction management firm</h4>
+			</div>
+		</div>
+		<div class="container2">
+
+		</div>
+	</header>
+
+	<section id="about" class="about">
+		<div class="container3">
+			<img src="image/projeco-logo-black.svg" alt="logo_black" class="logotip_black">
+			<ul class="menu">
+				<li><a href="#">Home</a></li>
+				<li><a1 href="#">About</a1></li>
+				<li><a href="#">Services</a></li>
+				<li><a href="#">Work</a></li>
+				<li><a href="#">Contact</a></li>
+			</ul>
+		</div>
+		<div class="out-story">
+			<h2>OUR STORY</h2>
+		</div>
+		<div class="container4">
+			<div class="left-side">
+				<p6>Founded in 2011 by John Mathew<br> Smith, <span style="color: rgba(22, 172, 232, 1);">Konstruct</span> has become the<br> number one construction management<br> firm
+				</p6>
+				<br>
+				<div class="text-p1">
+					<p1>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat.</p1>
+				</div>
+			</div>
+			<div class="right-side">
+				<img src="image/plan.jpg" alt="foto1">
+				<img src="image/manage.jpg" alt="foto2">
+				<img src="image/deliver.jpg" alt="foto3">
+			</div>
+		</div>
+		<div class="container5">
+			<p1>OUR CAPABILITIES</p1>
+			<p2>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam<br> nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat.</p2>
+			<button class="btn-main"> ALL SERVICES </button>
+		</div>
+		<div class="container6">
+			
+			<div class="box1">
+				<img src="image/box1.svg" alt="box-image1">
+				<div class="text-padding">
+					<p1> PROJECT AND CONSTRUCTION MANAGEMENT </p1>
+				</div>
+				<div class="text-padding2">
+					<p2>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat.</p2>
+				</div>
+			</div>
+			<div class="box2">
+				<img src="image/box2.svg" alt="box-image2">
+				<div class="text-padding">
+					<p1> STRUCTURE AUDIT AND MAINTENANCE </p1>
+				</div>
+				<div class="text-padding2">
+					<p2>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat.</p2>
+				</div>
+			</div>
+			<div class="box3">
+				<img src="image/box3.svg" alt="box-image3">
+				<div class="text-padding">
+					<p1> FACTORY CONSTRUCTION AND MODELING </p1>
+				</div>
+				<div class="text-padding2">
+					<p2>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat.</p2>
+				</div>
+			</div>
+		</div>
+		<div class="container7">
+			<div class="texxt">
+				<p1>Want to build<br> something amazing?</p1>
+			</div>
+			<div class="btn-2-pos">
+				<button class ="btn-2"> GET IN TOUCH </button>
+			</div>
+		</div>
+		<div class="container8">
+			<div class="nav2">
+				<p1>Newsletter Signup</p1>
+				<div class="serch-bar"> 
+					<input class = "search-bar" type="search-bar" name="search-bar" placeholder="test@youremail.com">
+				</div>
+				<div class="btn-3-pos">
+					<button class ="btn-3"> SIGNUP </button>
+				</div>
+			</div>
+		</div>
+
+	</section>
+
+
+	<footer id="footer" class="footer">
+		<div class="container9">
+			<div class="col1">
+				<li>
+					<p1>COMPANY</p1>
+				</li>
+				<li>
+					<img src="image/projeco-logo.svg" alt="logo" class="logotip">
+				</li>
+				<li>
+					<p2>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat.</p2>
+				</li>
+			</div>
+			<div class="col2">
+				<li>
+					<p1>LINKS</p1>
+				</li>
+					<div class="col2-1">
+					<li>
+						<p2>
+							HOME
+						</p2>
+					</li>
+					<li>
+						<p2>
+							ABOUT
+						</p2>
+					</li>
+					<li>
+						<p2>
+							SEVICES
+						</p2>
+					</li>
+					<li>
+						<p2>
+							PROJECTS
+						</p2>
+					</li>
+					<li>
+						<p2>
+							CONTACT US
+						</p2>
+					</li>
+				</div>
+			</div>
+
+			<div class="col3">
+				<li>
+					<p1>LINKS</p1>
+				</li>
+				<div class="col3-1">
+					<li>
+						<p5>
+							FAQ
+						</p5>
+					</li>
+					<li>
+						<p5>
+							TERMS
+						</p5>
+					</li>
+					<li>
+						<p5>
+							CAREERS
+						</p5>
+					</li>
+				</div>
+			</div>
+
+			<div class="col4">
+				<li>
+					<p1>LINKS</p1>
+				</li>
+				<div class="col4-1">
+					<li>
+						<p5>
+							BLOG
+						</p5>
+					</li>
+					<li>
+						<p5>
+							PARTNRES
+						</p5>
+					</li>
+					<li>
+						<p5>
+							NEWS
+						</p5>
+					</li>
+				</div>
+			</div>
+
+			<div class="col5">
+				<li>
+					<p1>CONTACT US</p1>
+				</li>
+				<div class="col5-1">
+					<li>
+						<p5>
+							213 Baker Street<br> Oriel City Kounty<br> 7000 KNW,<br> Kountry Name
+						</p5>
+					</li>
+					<li>
+						<p5>
+							+23 994 233 4022
+						</p5>
+					</li>
+					<li>
+						<p5>
+							info@konstruct.com
+						</p5>
+					</li>
+				</div>
+			</div>
+		</div>
+
+	</footer>
+	
+
+</body>
+</html>
+
+</body>
+</html>

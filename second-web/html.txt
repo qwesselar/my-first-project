@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>First WEB</title>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+	<header id="header" class="header">
+		<div class="container">
+			<div class="block-img">
+				<img src="image/img1.jpg" alt="img1">
+				<div class="block-img-right-side">					
+					<div class="menu">
+						<p1>Cart (0)</p1>
+						<img src="image/menu.svg" alt="menu-icon">
+					</div>
+					<div class="shop-new-product-con">
+						<p2>Let Power House Tui & Kahili uplift every space and surface that surrounds you, with each mist-filled pump.</p2>
+						<div class="shop-new-product">
+							<p3>SHOP NEW PRODUCT</p3>
+							<div class="rectangle"></div>
+						</div>
+					</div>
+					<div class="black-learn_more">
+						<div class="text-learn_more">
+							<p1>This website uses cookies to give you the best shopping experience. By continuing to browse the website we assume that you agree to the use of such cookies. Learn more about cookies and how we use them.</p1>
+							<p2>Learn More</p2>
+							<div class="rectangle"></div>
+						</div>
+					</div>
+				</div>
+
+
+			</div>
+			<p>Take your home scent to another realm</p>
+		</div>
+	</header>
+
+
+	<section id="section" class="section">
+		<div class="container">
+			<div class="text-frame">
+				<div class="text-frame-in">
+					<p1>HAND POURED CANDLES</p1>
+					<p2>The flicker of the wick and the wafting of scent…Waxed Perfume is the simplest daily self-indulgence.</p2>
+					<p3>browse our full collection</p3>
+					<div class="rectangle"></div>
+				</div>
+			</div>
+			<div class="img-frame">
+				<div class="img-frame-in">
+					<img src="image/img2.png" style="float: right" alt="img2">
+					<p3>Share the light, everyday</p3>
+				</div>
+			</div>
+		</div>
+		<div class="container2">
+			<div class="img-frame1">
+				<div class="img-frame1-in">
+					<p>Dialed to 70% alcohol</p>
+					<div class="rectangle1"></div>
+				</div>
+			</div>
+			<div class="img-frame2">
+				<div class="img-frame2-in">
+					<p>REFILL WITH TOPUP</p>
+					<div class="rectangle2"></div>
+				</div>
+			</div>
+		</div>
+		<div class="container3">
+			<div class="frame">
+				<div class="img-frame-in">
+					<img src="image/img5.png" alt="img5">
+				</div>
+				<div class="text-frame">
+					<div class="p1"><p1>ABOUT US</p1></div>
+					<div class="p2"><p2>A modern day scent company</p2></div>
+					<div class="p3"><p3>Be it fresh and plush, or musky or verdant, scent is at the centre of everything we do.</p3></div>
+					<div class="p4"><p4>From Body, Hair, Home and Essential Cleaning, our products are crafted to be both beautiful and uplifting, practical and effective.</p4></div>
+					<div class="p5"><p5>READ MORE</p5></div>
+					<div class="rectangle"></div>
+				</div>
+			</div>
+		</div>
+		<div class="container4">
+			<div class="text-frame">
+				<div class="text-frame-in">
+					<p1>MODERN REED DIFFUSER</p1>
+					<p2>Home Perfume does the hard work for you, offering a subtle yet consistent scent in your home, eliminating the need to have to scent ‘by hand’.</p2>
+					<p3>VIEW MORE</p3>
+					<div class="rectangle"></div>
+				</div>
+			</div>
+			<div class="img-frame">
+				<div class="img-frame-in">
+					<img src="image/img6.png" style="float: right" alt="img6">
+					<p3>Home Perfume</p3>
+				</div>
+			</div>
+		</div>
+		<div class="container5">
+			<div class="text-frame">
+				<div class="text-frame-in">
+					<div class="p1"><p1>ROOM MIST</p1></div>
+					<div class="p2"><p2>Hip-hop, house swap</p2></div>
+					<div class="p3"><p3>Freshen tired surrounds with a boost of fresh scent with Power House Nine to Five. Blond Tobacco, cinders of burnt Birch laced with Geranium, Violet Leaves and the humble Tonka Bean.</p3></div>
+					<div class="p4"><p4>SHOP NINE TO FIVE</p4></div>
+					<div class="rectangle"></div>
+				</div>
+			</div>
+		</div>
+		<div class="container6">
+			<div class="text-frame">
+				<div class="text-frame-in">
+					<p1>Hand Wash</p1>
+					<p2>Botanical Hand Wash for use anytime/everyday. Bolstered with Aloe, Horopito and Grapefruit Seed!</p2>
+					<p3>SHOP OUR SCENTS</p3>
+					<div class="rectangle"></div>
+				</div>
+			</div>
+			<div class="img-frame">
+				<div class="img-frame-in">
+					<img src="image/img8.png" style="float: right" alt="img8">
+					<p3>Your habitual helper</p3>
+				</div>
+			</div>
+		</div>
+		<div class="container7">
+			<div class="text-frame">
+				<div class="text-frame-in">
+					<p1>Industry</p1>
+					<p2>For the most particular of places, stamp out single-use with Hold Me by Ashley & Co®</p2>
+					<p3>Read More</p3>
+					<div class="rectangle"></div>
+				</div>
+			</div>
+			<div class="img-frame">
+				<div class="img-frame-in">
+					<img src="image/img9.png" style="float: right" alt="img9">
+					<p3>Hold Me</p3>
+				</div>
+			</div>
+		</div>
+	</section>
+
+
+	<footer id="footer" class="footer">
+		<div class="container">
+			<div class="text-frames">
+				<div class="up">
+					<div class="p1"><p1>Sign up to our newsletter and enrich your lives for good.</p1></div>
+					<div class="square-block"></div>
+				</div>
+				<div class="feedback">
+					<div class="block-1">
+						<div class="rectangle1"></div>
+						<div class="p2"><p2>Name</p2></div>
+					</div>
+					<div class="block-2">
+						<div class="rectangle2"></div>
+						<div class="p3"><p3>Email</p3></div>
+					</div>
+					<div class="p4"><p4>Submit</p4></div>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+</body>
+</html>
